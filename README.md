@@ -1,0 +1,1 @@
+Short project about predicting anomalies through time series data. The repo expects a user to download and place [this file](https://github.com/numenta/NAB/blob/master/labels/combined_windows.json) in the same directory as the other files.
