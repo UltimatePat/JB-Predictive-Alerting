@@ -1,3 +1,3 @@
-Short project about predicting anomalies through time series data. The repo expects a user to download and place [this file](https://github.com/numenta/NAB/blob/master/labels/combined_windows.json) in the same directory as the other files.
+Short project about predicting incidents/anomalies through time series data. The repo expects a user to download and place [this file](https://github.com/numenta/NAB/blob/master/labels/combined_windows.json) in the same directory as the other files. The findings and a step by step discussion through the problem is found in the file [results.ipynb](https://github.com/UltimatePat/JB-Predictive-Alerting/blob/main/results.ipynb)
 
 As a side note: Initially I attempted to work with a dataset that contained CPU utilization traces frome AWS VMs. However, because each VM had different and non-public hardware constraints and the fact that data normalization was not effective I decided to work with the taxi dataset instead.
